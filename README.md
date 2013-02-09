@@ -1,7 +1,7 @@
 BQMongoTest
 ===========
 
-Preliminary database test for BrowserQuest, it is currently not integrated BrowserQuest and is stand alone.
+Preliminary database test for BrowserQuest, it is currently not integrated into BrowserQuest and is stand alone.
 
 To run the script:
 
